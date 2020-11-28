@@ -1,7 +1,7 @@
 import sys
 
 def menu():
-    print('\n\n                    Jaydens Brain Calculator')
+    print("\n\n                    Jayden's Brain Calculator")
     print()
     
     choice = input('''
